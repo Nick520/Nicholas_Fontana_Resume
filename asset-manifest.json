@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nicholas_Fontana_Resume/resume/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Nicholas_Fontana_Resume/resume/static/js/main.9cc2d727.chunk.js",
+    "main.js.map": "/Nicholas_Fontana_Resume/resume/static/js/main.9cc2d727.chunk.js.map",
+    "runtime-main.js": "/Nicholas_Fontana_Resume/resume/static/js/runtime-main.ad8558d9.js",
+    "runtime-main.js.map": "/Nicholas_Fontana_Resume/resume/static/js/runtime-main.ad8558d9.js.map",
+    "static/js/2.0ec32d5c.chunk.js": "/Nicholas_Fontana_Resume/resume/static/js/2.0ec32d5c.chunk.js",
+    "static/js/2.0ec32d5c.chunk.js.map": "/Nicholas_Fontana_Resume/resume/static/js/2.0ec32d5c.chunk.js.map",
+    "index.html": "/Nicholas_Fontana_Resume/resume/index.html",
+    "precache-manifest.701b620de56203ff03d2d5736fc62ce4.js": "/Nicholas_Fontana_Resume/resume/precache-manifest.701b620de56203ff03d2d5736fc62ce4.js",
+    "service-worker.js": "/Nicholas_Fontana_Resume/resume/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Nicholas_Fontana_Resume/resume/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0ec32d5c.chunk.js.LICENSE": "/Nicholas_Fontana_Resume/resume/static/js/2.0ec32d5c.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Nicholas_Fontana_Resume/resume/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad8558d9.js",
+    "static/js/2.0ec32d5c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9cc2d727.chunk.js"
+  ]
+}
